@@ -27,3 +27,24 @@ Diseño empleando LTspice, L-edit, LVS (Layout Versus Schematic)
 
 # DISEÑO EN L-edit
 <img src="https://github.com/Sammy0829322/DISE-O-DE-IC-CMOS/blob/main/Captura%20de%20pantalla%202026-03-17%20204215.png?raw=true" width="900">
+
+
+# DISEÑO DE SUMADOR 1 bit  
+<img src="https://github.com/Sammy0829322/DISE-O-DE-IC-CMOS/blob/main/Captura%20de%20pantalla%202026-03-17%20204826.png?raw=true" width="900">
+
+# HOJA DE DATOS
+<img src="https://github.com/Sammy0829322/DISE-O-DE-IC-CMOS/blob/main/Captura%20de%20pantalla%202026-03-17%20204837.png?raw=true" width="900">
+
+# DISEÑO EN L-edit
+<img src="https://github.com/Sammy0829322/DISE-O-DE-IC-CMOS/blob/main/Captura%20de%20pantalla%202026-03-17%20204853.png?raw=true" width="900">
+
+
+
+# DISEÑO DE SUMADOR 2 bits  
+<img src="" width="900">
+
+# HOJA DE DATOS
+<img src="" width="900">
+
+# DISEÑO EN L-edit
+<img src="" width="900">
