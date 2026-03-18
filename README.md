@@ -20,10 +20,10 @@ Diseño empleando LTspice, L-edit, LVS (Layout Versus Schematic)
 
 
 # DISEÑO DE COMPUERTA XNOR 2mA 
-<img src="" width="900">
+<img src="https://github.com/Sammy0829322/DISE-O-DE-IC-CMOS/blob/main/Captura%20de%20pantalla%202026-03-17%20204145.png?raw=true" width="900">
 
 # HOJA DE DATOS
-<img src="" width="900">
+<img src="https://github.com/Sammy0829322/DISE-O-DE-IC-CMOS/blob/main/Captura%20de%20pantalla%202026-03-17%20204155.png?raw=true" width="900">
 
 # DISEÑO EN L-edit
-<img src="" width="900">
+<img src="https://github.com/Sammy0829322/DISE-O-DE-IC-CMOS/blob/main/Captura%20de%20pantalla%202026-03-17%20204215.png?raw=true" width="900">
